@@ -1,5 +1,5 @@
 # EX 1C Quick Sort
-## DATE:
+
 ## AIM:
 To write a Python program to sort a list of elements using the Quick Sort algorithm.
 
