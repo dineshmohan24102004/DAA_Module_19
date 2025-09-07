@@ -59,6 +59,7 @@ else:
 
 ## Output:
 
+<img width="1298" height="769" alt="Screenshot 2025-09-07 171446" src="https://github.com/user-attachments/assets/c42f55b3-104d-40f3-873e-958a32d7def2" />
 
 
 ## Result:
