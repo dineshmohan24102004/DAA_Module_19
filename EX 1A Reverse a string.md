@@ -1,5 +1,5 @@
 # EX 1A Reverse a String
-## DATE:
+
 ## AIM:
 To write a Python program that calculates the sum of natural numbers up to a given number using recursion.
 
