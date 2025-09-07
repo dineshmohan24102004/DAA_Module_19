@@ -1,5 +1,5 @@
 # EX 1D Linear search
-## DATE:
+
 ## AIM:
 To write a Python program to perform a linear search on a list of elements and check whether a given key element is present or not.
 
